@@ -1,0 +1,23 @@
+body{
+    background-image: url('./Snipper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+}
+#main
+{
+    width: 20%;
+    text-align:center;
+}
+#d1
+{
+    background-color: azure;
+}
+#d3
+{
+    color:aliceblue;
+}
+#d4{
+    color:aliceblue;
+    text-align: center;
+}
